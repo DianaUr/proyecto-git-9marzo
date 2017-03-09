@@ -1,1 +1,3 @@
-Hola! primer día de git
+Hola! primer día de git.
+
+Además hice el primer commit :)
